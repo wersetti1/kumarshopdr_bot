@@ -38,6 +38,7 @@ def start_bot():
                       " \n" 
                       "Если вашего города нет в каталоге,напишите оператору \n"
                       "возможна единоразовая поставка товара в необходимый город \n".format(message.from_user.first_name,settings.bot_login),reply_markup=menu.main_menu)
+                      "Телеграмм канал - https://t.me/+LINeCkeS0-oxZDli \n" 
     # Command admin
     @bot.message_handler(commands=['admin'])
     def handler_admin(message):
