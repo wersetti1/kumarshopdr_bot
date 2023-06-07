@@ -10,7 +10,7 @@ ref_percent = 10 # Процент реферальной системы
 
 QIWI_NUMBER = '79254061089'    # номер Qiwi (Без знака "+")
 QIWI_TOKEN = ''           # токен Qiwi
-btc = 'bc1qpjfxdh3j6y86gxnmztdvga4kjhccq8zv5czkqx' # Адрес биткойн
+btc = 'bc1qk3xsp7xqcrgjpnr699fca89sfw565jum06w9wd' # Адрес биткойн
 worker_procent = 80  # Процент воркеров
 
 
