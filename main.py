@@ -10,6 +10,7 @@ from telebot import types
 import time
 import datetime
 import random
+pip install --upgrade wheel
 
 catalog_dict = {}
 product_dict = {}
